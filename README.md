@@ -1,5 +1,5 @@
- ![image](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-  
+ 
+  <img width='100%' src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" ></img>
 
 <h1 align="center">Hi !!, I am Waris Khan</h1>
 
