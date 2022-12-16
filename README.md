@@ -1,5 +1,5 @@
  
-  <img width='100%' src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" ></img>
+ <img src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" >
 
 <h1 align="center">Hi !!, I am Waris Khan</h1>
 
