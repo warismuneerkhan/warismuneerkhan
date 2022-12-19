@@ -7,9 +7,18 @@
 
 <h6 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h6>
 
-<h5 align="left"><i>Portfolio --- </i>
-<a href="https://warismuneerkhan.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
-</h5>
+- 🌍  I'm based in India
+- 🧠  I'm learning MERN STACK
+
+- 👨‍💻 All of my projects are available at <a href="https://warismuneerkhan.github.io/">Portfolio</a>
+
+- 💬 Ask me about *MERN*
+
+- 📫 How to reach me *wariskhan8303276@gmail.com*
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AS9aGodHHIKwT2_Gb7ppVPE9ptX8aW2u/view?usp=share_link">Resume</a>
+
+
 
 
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
